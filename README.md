@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realpalyanytsya
 - 👀 I’m interested in web development and scripts to make life easier
 - 🌱 I’m currently learning react
-- 📫 How to reach me TG
+- 📫 How to reach me [TG](https://t.me/REALPALYANYTSYA)
 
 <!---
 realpalyanytsya/realpalyanytsya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
